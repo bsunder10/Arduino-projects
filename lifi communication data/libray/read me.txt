@@ -1,0 +1,4 @@
+paste "Keypad" folder in arduino installation directory
+
+for example, for me its
+C:\Program Files (x86)\Arduino\libraries
